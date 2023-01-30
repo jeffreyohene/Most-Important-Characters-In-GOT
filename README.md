@@ -9,5 +9,4 @@ This project uses a dataset parsed by Andrew J. Beveridge and Jie Shan which is 
 
 #### Skills Utilized
 Network Analysis In Python
-### Technology
-Python
+
